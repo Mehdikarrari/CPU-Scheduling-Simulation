@@ -1,11 +1,10 @@
-input structure:
-first line: number of process
-second line: quantom time
-other lines: in each lines 6 integers
+----input structure:
+----first line: number of process
+----second line: quantom time
+----other lines: in each lines 6 integers
 first integer: pid
 second integer: arrival time
 third integer: burst time 
-
 4'th to 6'th integer: 0
 first input:
 3
